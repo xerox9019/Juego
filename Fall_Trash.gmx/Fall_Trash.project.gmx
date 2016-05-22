@@ -7,11 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\Bote_Basura</sprite>
+    <sprite>sprites\Basura_Verde</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\B_B</object>
+    <object>objects\B_V</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
