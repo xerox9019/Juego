@@ -8,12 +8,14 @@
   <sprites name="sprites">
     <sprite>sprites\Bote_Basura</sprite>
     <sprite>sprites\Basura_Verde</sprite>
+    <sprite>sprites\Basura_Azul</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\B_B</object>
     <object>objects\B_V</object>
+    <object>objects\B_A</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
