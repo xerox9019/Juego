@@ -9,6 +9,7 @@
     <sprite>sprites\Bote_Basura</sprite>
     <sprite>sprites\Basura_Verde</sprite>
     <sprite>sprites\Basura_Azul</sprite>
+    <sprite>sprites\Basura_Roja</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -16,6 +17,7 @@
     <object>objects\B_B</object>
     <object>objects\B_V</object>
     <object>objects\B_A</object>
+    <object>objects\B_R</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
