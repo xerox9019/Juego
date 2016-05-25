@@ -11,6 +11,7 @@
     <sprite>sprites\Basura_Azul</sprite>
     <sprite>sprites\Basura_Roja</sprite>
     <sprite>sprites\Basura_Negra</sprite>
+    <sprite>sprites\Borde</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +21,7 @@
     <object>objects\B_A</object>
     <object>objects\B_R</object>
     <object>objects\B_N</object>
+    <object>objects\Bord</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
