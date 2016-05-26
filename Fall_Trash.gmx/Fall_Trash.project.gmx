@@ -13,7 +13,9 @@
     <sprite>sprites\Basura_Negra</sprite>
     <sprite>sprites\Borde</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\Fondo_Inicio</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\B_B</object>
