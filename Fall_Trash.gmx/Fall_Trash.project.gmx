@@ -15,6 +15,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\Fondo_Inicio</background>
+    <background>background\Fondo_Ciudad</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
